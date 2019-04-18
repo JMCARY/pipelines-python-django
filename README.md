@@ -1,4 +1,4 @@
-# Sample Python app for Azure Pipelines docs
+# Sample Python app for Azure Pipelines documents
 [![Build Status](https://dev.azure.com/rustygates/Test/_apis/build/status/Test-CI%20(1)?branchName=master)](https://dev.azure.com/rustygates/Test/_build/latest?definitionId=2&branchName=master)
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
